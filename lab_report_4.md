@@ -6,12 +6,12 @@
 ## Step 2: Clone
 - <CTRL-R> git then ```<ENTER>```
 - Clone the repository
-  ![Image](1.png)
+  ![Image](2.png)
 
 ## Step 3: Run the tests
 - ```<Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>``` (Until I found the command I used previously)
 - ```<Backspace><Backspace><Backspace><Backspace><Enter>``` (To edit the name of the file)
-  ![Image](1.png)
+  ![Image](3.png)
 
 ## Step 4: Edit the code
 - Enter: ```nano ListExamples.java```
