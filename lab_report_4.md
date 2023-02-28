@@ -30,3 +30,5 @@
 - Now, type: ```git commit -m "fixed_file"```
 - Finally, push the file: ```git push```
   ![Image](last.png)
+  
+- At first, I took _12 minutes_ to do it, but by the last try I took only _1 minute and 48 seconds_.
