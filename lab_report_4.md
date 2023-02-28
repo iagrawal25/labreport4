@@ -1,7 +1,7 @@
 # Lab Report 4
 ## Step 1: Login
 - CTRL-R ssh then ```Enter```
-  ![Image](1.png)
+- ![Image](1.png)
 
 ## Step 2: Clone
 - CTRL-R git then ```Enter```
