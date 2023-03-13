@@ -4,7 +4,7 @@
 - ![Image](1.png)
 
 ## Step 2: Clone
-- CTRL-R git then ```Enter```. 
+- CTRL-R git then ```Enter```. We will use _git clone_ to clone the git repository.
   ![Image](2.png)
 - Clone the repository
   ![Image](2.0.png)
