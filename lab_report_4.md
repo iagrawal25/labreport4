@@ -1,10 +1,10 @@
 # Lab Report 4
 ## Step 1: Login
-- CTRL-R ssh then ```Enter```
+- Press CTRL-R ssh then ```Enter```. CTRL-R helps search for previous commands that you use and makes it easier and faster to work in the terminal. 
 - ![Image](1.png)
 
 ## Step 2: Clone
-- CTRL-R git then ```Enter```
+- CTRL-R git then ```Enter```. 
   ![Image](2.png)
 - Clone the repository
   ![Image](2.0.png)
